@@ -13,6 +13,7 @@ header {
     font-size: 32px;
 
     color:aqua;
+    
 }
 
 .chamada{
@@ -29,5 +30,9 @@ header {
 }
 
 .categoria-videos{
-    width: 300px;
+    width: 1920px;
+}
+
+.primeiro-video{
+    padding: 20px;    
 }
