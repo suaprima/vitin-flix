@@ -27,3 +27,8 @@ section{
 .chamada-texto{
     margin-right: 5%;
 }
+
+.categoria{
+    width: 200px;
+    height: 200px;
+}
