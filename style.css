@@ -29,9 +29,7 @@ header {
     margin-right: 5%;
 }
 
-.categoria-videos{
+.categoria {
     width: 560px;
-}
-
-.primeiro-video{
+    margin: 20px;
 }
