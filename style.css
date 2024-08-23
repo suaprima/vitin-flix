@@ -1,3 +1,9 @@
+body{
+    color:rgb(16, 143, 101) ;
+    background: rgb(10, 0, 0);
+    font-family: "Matemasie", sans-serif;
+    margin: 0px;
+}
 
 header {
     border: solid 2px rgb(146, 14, 14);
@@ -9,13 +15,7 @@ header {
     color:aqua;
 }
 
-.chamada{
-    background:purple  ;
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-}
+
 
 
 .chamada-texto{
